@@ -1,2 +1,3 @@
 I like read!
 I like my word!
+I learning git!
